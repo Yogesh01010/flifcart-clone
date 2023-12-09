@@ -1,4 +1,5 @@
 
+
 var res = JSON.parse(localStorage.getItem("cart"));
 console.log("res", res);
 
